@@ -28,7 +28,7 @@ Añade debajo enlaces a tu proyecto
 | MARTIN QUIROS, JUAN ANTONIO| | |
 | MEDINA FACAL, RAFAEL| | |
 | MENGIBAR RODRIGUEZ, MIRIAM| | |
-| MOLINA GOMEZ, PABLO|[Repo](https://github.com/pabliyyomolina/proyecto) | 0.1 |
+| MOLINA GOMEZ, PABLO| | |
 | MORENTE GABALDON, ADRIAN| [PracticasIV](https://github.com/adrianmorente/PracticasIV) | 0.1 |
 | MUÑOZ GARCIA, ALVARO| | |
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
