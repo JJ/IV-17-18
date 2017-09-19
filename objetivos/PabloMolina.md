@@ -1,0 +1,12 @@
+
+- Creacion de par de claves pública y privada.
+- Fork de IV-17-18.
+- Configuración correcta del nombre y correo electrónico para que aparezca en los commits.
+- Edición del perfil en GitHub para que aparezca nombre completo y ciudad, así como universidad.
+- Creación repositorio para proyectos.
+- Realizar correctamente el pull request.
+- Entender la metodología docente, de evaluación y de interacción de la asignatura.
+- Entender el concepto de software libre y su aplicación práctica en esta asignatura.
+- Entender la importancia de metodologías ágiles como SCRUM en el desarrollo de proyectos informáticos, incluyendo proyectos de infraestructura.
+- Vernos las caras.
+- Darse de alta y comprender el funcionamiento básico de GitHub y el grupo de Telegram de la asignatura y conocer el resto de los recursos de la asignatura.
