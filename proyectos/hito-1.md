@@ -27,7 +27,7 @@ Añade debajo enlaces a tu proyecto
 | LOPEZ ACEITUNO, MANUEL| | |
 | MARTIN QUIROS, JUAN ANTONIO| | |
 | MEDINA FACAL, RAFAEL| | |
-| MENGIBAR RODRIGUEZ, MIRIAM| [Repo](https://github.com/mirismr/proyectoIV17-18) | 0.1 |
+| MENGIBAR RODRIGUEZ, MIRIAM| [Repo](https://github.com/mirismr/proyectoIV17-18) | 0.3 |
 | MOLINA GOMEZ, PABLO| | |
 | MORENTE GABALDON, ADRIAN| | |
 | MUÑOZ GARCIA, ALVARO| | |
