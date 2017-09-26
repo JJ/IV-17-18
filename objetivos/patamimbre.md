@@ -17,7 +17,7 @@ ciudad, así como universidad.
 2. [X] Comprender las técnicas de cálculo del coste de amortización de un
 equipo informático y aplicarlo al cálculo del coste de uso de un
 recurso.
-3. [] Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitual lo usa.
+3. [X] Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitual lo usa.
 4. [] Comprender los niveles de virtualización y sus denominaciones genéricas.
 5. [] Comprender el concepto de *software as a service* y comprender los
    criterios necesarios para su elección.
