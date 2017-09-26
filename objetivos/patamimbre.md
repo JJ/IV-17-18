@@ -29,10 +29,7 @@ recurso.
 
 * [X] Al final de la clase, haber entregado el hito 0. 
 * [X] Tener a punto una instalación Linux para llevar a cabo las
-actividades de la asignatura. Si necesitas ayuda para instalarlo,
-todos los
-jueves a partir de las 12:30 está el Hacklab Granada en la sala de
-reuniones (o sitio designado).
+actividades de la asignatura.
 * [X] Manejar de forma básica la línea de órdenes de Linux.
 * [X] Aprender a instalar software libre en Linux.
 * [X] Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
