@@ -1,4 +1,4 @@
-##Objetivos de la sesión 01
+## Objetivos de la sesión 01
 
 1. [X] Creación de par de claves y subida de clave pública a GitHub.
 2. [X] Configuración correcta del nombre y correo electrónico para que 
@@ -10,9 +10,9 @@ ciudad, así como universidad.
 6. [X] Creación repositorio para trabajos.
 7. [X] Crear README y .gitignore en los repositorios
 
-##Objetivos de la sesión 02
+## Objetivos de la sesión 02
 
-### [Repositorio autoevaluación](https://github.com/patamimbre/IV_Proyecto)
+#### [Repositorio autoevaluación](https://github.com/patamimbre/IV_Proyecto)
 
 0. [X] He asistido a clase de prácticas el día 26/09/2017
 1. [X] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
