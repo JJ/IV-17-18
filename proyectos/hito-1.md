@@ -21,7 +21,7 @@ Añade debajo enlaces a tu proyecto
 | FERNANDEZ GOMEZ, MARIO| | |
 | FERNANDEZ MILLAN, FRANCISCO| | |
 | GALLARDO MOLINA, ANDRES JOSE| | |
-| GOMEZ BAENA, JOSE| | |
+| GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 0.7 |
 | HERNANDEZ CAÑAVERAS, JUAN| | |
 | LIÑAN VILLAFRANCA, LUIS| | |
 | LOPEZ ACEITUNO, MANUEL| | |
@@ -33,7 +33,7 @@ Añade debajo enlaces a tu proyecto
 | MUÑOZ GARCIA, ALVARO| | |
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
 | MUÑOZ GARCIA, ALVARO| | |
-| PELAEZ PRIEGO, ANTONIO JESUS| | |
+| PELAEZ PRIEGO, ANTONIO JESUS| [Repo](https://github.com/ajpelaez/IV-Proyecto) | 0.1 |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ MONTES, DAVID| | |

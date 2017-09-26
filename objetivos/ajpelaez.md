@@ -14,3 +14,15 @@
 12. [X] Elección de licencia para el repositorio del proyecto.
 13. [X] Fork de IV-17-18, edición de hito0 y creación fichero con los objetivos
 14. [X] Realizado pull request después de pull upstream master.
+
+## Objetivos práctica 1
+
+1. [X] Conocer la historia de la Computación Virtual, sus orígenes y razones de su existencia.
+2. [X] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+3. [X] Comprender la diferencia entre infraestructura virtual y real.
+4. [X] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+5. [X] Conocer diferentes tecnologías relacionadas con la virtualización (Computación nube, Cloud computing, Utility Computing, Software as a Service o Google AppSpot).
+6. [X] Conocer el concepto de software libre y su importancia dentro de la computación nube.
+7. [X] Entender el concepto de DevOps y las técnicas y tecnologías que cubre.
+8. [X] Usar el sistema de control de fuentes gitpara desarrollo colaborativo y para despliegue de aplicaciones en la nube.
+
