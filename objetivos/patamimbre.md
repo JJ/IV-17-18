@@ -14,7 +14,7 @@ ciudad, así como universidad.
 
 0. [X] He asistido a clase de prácticas el día 26/09/2017
 1. [X] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
-2. [] Comprender las técnicas de cálculo del coste de amortización de un
+2. [X] Comprender las técnicas de cálculo del coste de amortización de un
 equipo informático y aplicarlo al cálculo del coste de uso de un
 recurso.
 3. [] Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitual lo usa.
