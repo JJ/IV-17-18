@@ -26,14 +26,14 @@ Añade debajo enlaces a tu proyecto
 | LIÑAN VILLAFRANCA, LUIS| | |
 | LOPEZ ACEITUNO, MANUEL| | |
 | MARTIN QUIROS, JUAN ANTONIO| | |
-| MEDINA FACAL, RAFAEL| | |
+| MEDINA FACAL, RAFAEL| [Repo](https://github.com/Medfac9/Proyecto_IV) | 0.3 |
 | MENGIBAR RODRIGUEZ, MIRIAM| [Repo](https://github.com/mirismr/proyectoIV17-18) | 0.2 |
 | MOLINA GOMEZ, PABLO| | |
 | MORENTE GABALDON, ADRIAN| | |
 | MUÑOZ GARCIA, ALVARO| | |
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
-| MUÑOZ GARCIA, ALVARO|[ProyectoIV](https://github.com/alvaromgs/proyectoIV-1718)|0.1|
-| PELAEZ PRIEGO, ANTONIO JESUS| [Repo](https://github.com/ajpelaez/IV-Proyecto) | 0.1 |
+| MUÑOZ GARCIA, ALVARO| | |
+| PELAEZ PRIEGO, ANTONIO JESUS| | |
 | QUINTANA PADILLA, DIEGO ALBERTO| | |
 | SANCHEZ JIMENEZ, DAVID| | |
 | SANCHEZ MONTES, DAVID| | |
