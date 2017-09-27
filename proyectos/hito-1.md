@@ -28,7 +28,7 @@ A�ade debajo enlaces a tu proyecto
 | MARTIN QUIROS, JUAN ANTONIO| | |
 | MEDINA FACAL, RAFAEL| [Repo](https://github.com/Medfac9/Proyecto_IV) | 0.5 |
 | MENGIBAR RODRIGUEZ, MIRIAM| [Repo](https://github.com/mirismr/proyectoIV17-18) | 0.2 |
-| MOLINA GOMEZ, PABLO|[Repo_Proyecto](https://github.com/pmolinag/proyecto)|0.1|
+| MOLINA GOMEZ, PABLO|[Repo_Proyect](https://github.com/pmolinag/proyecto)|0.1|
 | MORENTE GABALDON, ADRIAN| | |
 | MU�OZ GARCIA, ALVARO| | |
 | MURIEL SANCHEZ LAFUENTE, GUILLERMO| | |
