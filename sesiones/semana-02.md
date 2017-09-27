@@ -42,4 +42,4 @@ Podéis añadir trucos o enlaces a material adicional en esta zona.
 
 ## Siguiente semana
 
-[Tercera semana](3-semana.md)
+[Tercera semana](semana-03.md)
