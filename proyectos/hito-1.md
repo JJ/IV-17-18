@@ -9,7 +9,7 @@ Añade debajo enlaces a tu proyecto
 | ANAYA ORTIZ, JUAN| | |
 | CARMONA OLIVA, ALVARO| [Repo](https://github.com/alvarocarmona6/ProyectoIV) | 0.6 |
 | CASADO VERGARA, MANUEL|[Repo](https://github.com/cvlolo/IV-Proyecto/) | 0.3 |
-| CASO ONZAIN, JAIME| | |
+| CASO ONZAIN, JAIME | [Repositorio](https://github.com/jimcase/IV-17-18-Proyectos) | 0.4 |
 | CASTRO MONTES, GERMAN | [Repo](https://github.com/patamimbre/IV_Proyecto) | 0.2 |
 | CERVILLA ORTEGA, SERGIO| [Telegram RSS](https://github.com/Cerv1/IV-Project) | 0.3 |
 | DEL RIO AGUILAR, ALBERTO| [enlace](https://github.com/berbus/proyectoIV) | 0.2 |
