@@ -12,7 +12,7 @@ Añade debajo enlaces a tu proyecto
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| | |
 | CERVILLA ORTEGA, SERGIO| | |
-| DEL RIO AGUILAR, ALBERTO|[Enlace](https://github.com/berbus/proyectoIV) | 0.1 |
+| DEL RIO AGUILAR, ALBERTO|[Enlace](https://github.com/berbus/proyectoIV) | 0.2 |
 | DE LA HOZ GARRIDO, PAULA MARIA| | |
 | DE LA TORRE FANIN, CARLOS| | |
 | DONOSO SANCHEZ, JUAN PABLO| | |
