@@ -25,8 +25,8 @@
 - [X] Leer y entender el guión del hito 1
 - [X] Preguntar dudas sobre hito al profesor
 - [X] Decidir que infraestructura se va a usar
-- [ ] Realizar los ejercicios de la asignatura
-- [ ] Describir de que irá el proyecto y qué usaremos
+- [X] Realizar los ejercicios de la asignatura correspondientes a la [semana 2](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/ejercicios/semana-02.md)
+- [X] Pensar y describir más profundamente de que irá el proyecto y qué se usará para su despliegue
   
 
 

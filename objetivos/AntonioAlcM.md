@@ -31,3 +31,5 @@ recurso.
 - [x] Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
 - [x] Haber usado git para hacer check-in en clase y expresar al final de cada sesión los objetivos alcanzados.
 - [x] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero.
+### Ejercicios Tema1
+[Enlace a la resolución de los ejercicios](https://github.com/AntonioAlcM/IV17-18-Autoevaluacion/tree/master/Tema1)
