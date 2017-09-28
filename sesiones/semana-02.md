@@ -33,7 +33,7 @@ reuniones (o sitio designado).
 ## Material para la clase
 
 * *Teoría*: [Introducción, concepto y soporte físico](http://jj.github.io/IV/documentos/temas/Intro_concepto_y_soporte_fisico#introduccin)
-* *Práctica*: [Guión del primer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura). Plazo para la entrega de este primer hito: **12:30 del 28 de septiembre de 2017**. 
+* *Práctica*: [Guión del primer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura). Plazo para la entrega de este primer hito: **13:30 del 28 de septiembre de 2017**. 
 
 ## Material adicional
 

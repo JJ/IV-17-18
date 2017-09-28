@@ -13,13 +13,6 @@ my $hito_file = "hito-".HITO.".md";
 my $diff_regex = qr/a\/proyectos\/$hito_file/;
 my $github;
 
-# if ($ENV{'GH_TOKEN'} ) {
-#   say "Usando token GH";
-#   $github = Net::GitHub->new( access_token => $ENV{'GH_TOKEN'} );
-# } else {
-#   $github = Net::GitHub->new();
-# }
-
 SKIP: {
   skip "No hay envío de proyecto", 5 unless $diff =~ $diff_regex;
   my @files = split(/diff --git/,$diff);
@@ -52,24 +45,12 @@ SKIP: {
 
   # Comprobar hitos e issues
   cmp_ok( how_many_milestones( $user, $name), ">=", 3, "Número de hitos correcto");
-  # my $issue = $github->issue;
-  # $issue->set_default_user_repo($user,$name);
-  # my $repos = $github->repos;
-  # $repos->set_default_user_repo($user,$name);
-  # my @hitos = $issue->milestones({ state => 'open' });
 
   my @closed_issues =  closed_issues($user, $name);
   cmp_ok( $#closed_issues , ">=", 0, "Hay ". scalar(@closed_issues). "issues cerrado(s)");
   for my $i (@closed_issues) {
     my ($issue_id) = ($i =~ /issue_(\d+)/);
     
-  #   my ($event_id) = ($i->{'url'} =~ m{issues/(\d+)});
-  #   my @events = $issue->events($event_id);
-  #   cmp_ok( $#events, ">=", 1, "El issue tiene al menos dos eventos");
-    like( $i, qr/issue-milestone/, "El issue $issue_id está asignado a un hito");
-  #   my ($closing_event) = grep(($_->{'event'} eq 'closed'), @events);
-  #   my $closing_commit = $repos->commit($closing_event->{'commit_id'});
-  #   is($closing_commit->{'author'}->{'login'}, $user, "Autor del commit es el correcto");
     is(closes_from_commit($user,$name,$issue_id), 1, "El issue $issue_id se ha cerrado desde commit")
   }
 };
