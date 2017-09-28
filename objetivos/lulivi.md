@@ -13,16 +13,16 @@
 - [x] Creación del repositorio de proyecto para IV
 - [x] Rellenado de la tabla del hito 0.
 
-
 # Hito 1
 
 ## Semana del 21 al 28 de septiembre de 2017
 
 
-- [ ] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
-- [ ] Comprender las técnicas de cálculo del coste de amortización de un equipo informático y aplicarlo al cálculo del coste de uso de un recurso.
-- [ ] Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitual lo usa.
-- [ ] Comprender los niveles de virtualización y sus denominaciones genéricas.
-- [ ] Comprender el concepto de software as a service y comprender los criterios necesarios para su elección.
-- [ ] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
-- [ ] Realizar los ejercicios del hito 1
+- [x] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
+- [x] Comprender las técnicas de cálculo del coste de amorticszación de un equipo informático y aplicarlo al cálculo del coste de uso de un recurso.
+- [x] Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitual lo usa.
+- [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
+- [x] Comprender el concepto de software as a service y comprender los criterios necesarios para su elección.
+- [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
+- [x] Realizar los [ejercicios del hito 1](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_1.md) .
+- [x] Añadir nociones básicas al readme del proyecto.
