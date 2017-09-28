@@ -12,5 +12,3 @@
 9. [X] Entender la importancia de metodologías ágiles como SCRUM en el desarrollo de proyectos informáticos, incluyendo proyectos de infraestructura.
 10. [X] Vernos las caras.
 11. [X] Darse de alta y comprender el funcionamiento básico de GitHub y el grupo de Telegram de la asignatura y conocer el resto de los recursos de la asignatura.
-11. [x] Explicar la
-   [práctica 0](https://github.com/mariofg92/ejercicios/blob/master/practica0.md).
