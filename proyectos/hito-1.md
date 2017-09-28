@@ -8,7 +8,7 @@ Añade debajo enlaces a tu proyecto
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
 | CARMONA OLIVA, ALVARO| [Repo](https://github.com/alvarocarmona6/ProyectoIV) | 0.6 |
-| CASADO VERGARA, MANUEL| | |
+| CASADO VERGARA, MANUEL|[Repo](https://github.com/cvlolo/IV-Proyecto/) | 0.3 |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| | |
 | CERVILLA ORTEGA, SERGIO| | |
