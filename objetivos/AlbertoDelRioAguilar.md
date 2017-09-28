@@ -3,7 +3,7 @@
 ## Repositorio de ejercicios
 Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejerciciosIV/)
 
-- [ ] Ejercicios del hito 1 ([enlace](https://github.com/berbus/ejerciciosIV/blob/master/Ejercicios%20hito%201/ejercicios.md)).
+- [X] Ejercicios del hito 1 ([enlace](https://github.com/berbus/ejerciciosIV/blob/master/Ejercicios%20hito%201/ejercicios.md)).
 
 ## Práctica 0
 - [X] Creación de un par de claves y subida de clave pública a GitHub.
@@ -22,5 +22,5 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 - [X] Manejar de forma básica la línea de órdenes.
 - [X] Aprender a instalar software libre en Linux.
 - [X] Entender el concepto de de sistema de ficheros virtual usado en Linux.
-- [ ] Haber usado git para hacer check-in en clase.
+- [X] Haber usado git para hacer check-in en clase.
 - [ ] Revisar algún ejercicio de un compañero.
