@@ -23,7 +23,7 @@ recurso.
 4. [X] Comprender los niveles de virtualización y sus denominaciones genéricas.
 5. [X] Comprender el concepto de *software as a service* y comprender los
    criterios necesarios para su elección.
-6. [] Entender qué implica diseñar un proyecto que se irá elaborando
+6. [X] Entender qué implica diseñar un proyecto que se irá elaborando
    durante la asignatura.
 
 
