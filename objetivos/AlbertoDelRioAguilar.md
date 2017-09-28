@@ -22,5 +22,5 @@ Enlace al repositorio de ejercicios [aquí](https://github.com/berbus/ejercicios
 - [X] Manejar de forma básica la línea de órdenes.
 - [X] Aprender a instalar software libre en Linux.
 - [X] Entender el concepto de de sistema de ficheros virtual usado en Linux.
-- [ ] Haber usado git para hacer check-in en clase.
+- [X] Haber usado git para hacer check-in en clase.
 - [ ] Revisar algún ejercicio de un compañero.
