@@ -7,7 +7,7 @@ Añade debajo enlaces a tu proyecto
 | ALCALA MARTINEZ, ANTONIO | | |
 | ALVAREZ GARROTE, LUIS | | |
 | ANAYA ORTIZ, JUAN| | |
-| CARMONA OLIVA, ALVARO| | |
+| CARMONA OLIVA, ALVARO| [Repo](https://github.com/alvarocarmona6/ProyectoIV) | 0.6 |
 | CASADO VERGARA, MANUEL| | |
 | CASO ONZAIN, JAIME| | |
 | CASTRO MONTES, GERMAN| | |
@@ -22,7 +22,7 @@ Añade debajo enlaces a tu proyecto
 | GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 0.7 |
 | HERNANDEZ CAÑAVERAS, JUAN| | |
 | LIÑAN VILLAFRANCA, LUIS| | |
-| LOPEZ ACEITUNO, MANUEL| | |
+| LOPEZ ACEITUNO, MANUEL|[Repositorio](https://github.com/manuellopez92/ProyectoIV) |0.1 |
 | MARTIN QUIROS, JUAN ANTONIO| | |
 | MEDINA FACAL, RAFAEL| [Repo](https://github.com/Medfac9/Proyecto_IV) | 0.5 |
 | MENGIBAR RODRIGUEZ, MIRIAM| [Repo](https://github.com/mirismr/proyectoIV17-18) | 0.2 |
