@@ -26,3 +26,19 @@
 7. [X] Entender el concepto de DevOps y las técnicas y tecnologías que cubre.
 8. [X] Usar el sistema de control de fuentes gitpara desarrollo colaborativo y para despliegue de aplicaciones en la nube.
 
+## Objetivos práctica 2
+
+1. [X] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
+2. [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+3. [X] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+4. [X] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+5. [X] Haber entregado el primer hito del proyecto al final de la semana.
+6. [X] Entender el segundo hito del proyecto
+7. [X] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+8. [X] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente de otra forma.
+9. [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
+10. [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+11. [X] Comprender el papel de las build tools o herramientas de automatización.
+
+
+

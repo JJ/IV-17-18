@@ -28,3 +28,31 @@ Carlos de la Torre
 - [x] Al final de la clase, haber entregado el hito 1.
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 - [x] Cambiar nombre a fichero de objetivos.
+
+#Hito 2
+## Objetivos semana del 28 de septiembre al 5 de octubre de 2017
+
+- [X] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
+- [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [X] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+- [X] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+
+## Otros objetivos
+- [X] Haber entregado el primer hito del proyecto al final de la semana.
+- [X] Entender el segundo hito del proyecto
+- [X] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+- [X] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (toolbelt) del lenguaje que se use habitualmente 	de otra forma.
+- [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
+- [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [X] Comprender el papel de las build tools o herramientas de automatización.
+
+## Objetivos del Tema 1 de Teoría
+
+1. [X] Conocer la historia de la Computación Virtual, sus orígenes y razones de su existencia.
+2. [X] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+3. [X] Comprender la diferencia entre infraestructura virtual y real.
+4. [X]  Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+5. [X]  Conocer diferentes tecnologías relacionadas con la virtualización (Computación nube, Cloud computing, Utility Computing, Software as a Service o Google AppSpot)
+6. [X]  Conocer el concepto de software libre y su importancia dentro de la computación nube.
+7. [X]  Entender el concepto de DevOps y las técnicas y tecnologías que cubre.
+8. [X]  Usar el sistema de control de fuentes gitpara desarrollo colaborativo y para despliegue de aplicaciones en la nube.

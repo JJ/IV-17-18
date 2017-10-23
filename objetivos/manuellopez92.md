@@ -22,3 +22,16 @@
 4. [x] Modificar el archivo README para incluir una descripción del proyecto que se va a realizar
 5. [x] Trabajar usando _milestones_ (hitos) y _issues_ (órdenes de trabajo) como parte de las buenas prácticas de trabajo
 6. [x] Crear los _milestones_ correspondientes al desarrolo del proyecto
+
+
+## Objetivos Hito2
+
+1. [x] Leer y comprender el Tema 2 de la asignatura
+2. [x] Instalar las herramientas necesarias para crear y aplicar los test al proyecto
+3. [x] Realizar los [ejercicios del Tema 2](https://github.com/manuellopez92/EjerciciosIV/blob/master/Ejercicios%20Tema%202.md) 
+4. [x] Modificar el archivo README para incluir una descripción de la integración continua que se aplicará al proyecto
+5. [x] Configurar Travis-CI como sistema de integración continua usado en el proyecto
+6. [x] Crear y configurar el archivo _.travis.yml_ como parte de la configuración del sistema de integración continua
+7. [x] Crear y configurar el archivo _requirements.txt_ para la instalación de las dependencias
+8. [x] Crear una clase inicial que contenga funciones básicas del proyecto
+9. [x] Crear una clase con los test de las funciones básicas del proyecto

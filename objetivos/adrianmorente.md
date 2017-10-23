@@ -21,3 +21,18 @@
 - [x] Usar el sistema de control de fuentes `git` para desarrollo colaborativo y para despliegue de aplicaciones en la nube.
 - [x] Repositorio individual creado y entregado correctamente, con la licencia correcta y con todos los commits hechos por el propio alumno y respetando las buenas prácticas que se iniciaron en el hito 0.
 - [x] Documentación correcta que explique qué proyecto se ha elegido y por qué, y qué pasos se van a llevar a cabo para hacerlo. Esta descripción debe mostrar claramente que se ha comprendido el objetivo de la asignatura y que el proyecto corresponde a este objetivo.
+
+
+## Objetivos referentes a la tercera y cuarta semana (02/10/2017)
+
+- [x] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+- [x] Entender los ficheros de *requisitos* y su utilidad en las infraestructuras virtuales.
+- [x] Haber entregado el [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura) al final de la semana.
+- [x] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
+- [x] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+- [x] Comenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo node.js hace las cosas, o simplemente mirar el cinturón de herramientas (*toolbelt*) del lenguaje que se use habitualmente de otra forma.
+- [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
+- [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [x] Comprender el papel de las *build tools* o herramientas de automatización.

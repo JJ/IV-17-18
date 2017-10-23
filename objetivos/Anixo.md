@@ -26,3 +26,19 @@
 14. [X] Comprender la diferencia entre infraestructura virtual y real.
 15. [X] Conocer diferentes tecnologías relacionadas con la virtualización (Computación nube, Cloud computing, Utility Computing, Software as a Service o Google AppSpot).
 16. [X] Conocer el concepto de software libre y su importancia dentro de la computación nube.
+
+
+## Objetivos práctica 2
+
+1. [X] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
+2. [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+3. [X] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+4. [X] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+5. [X] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica. 
+6. [X] Aprender a usar integración continua en cualquier aplicación. 
+7. [X] Haber entregado el primer hito del proyecto al final de la semana.
+8. [X] Entender el segundo hito del proyecto
+9. [X] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+10. [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
+11. [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+12. [X] Comprender el papel de las build tools o herramientas de automatización.

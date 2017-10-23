@@ -8,7 +8,7 @@
 6. [X] Creación repositorio para trabajos.
 
 
-## Objetivos a cubrir en la semana (21/09/2017-28/09/2017)
+## Objetivos a cubrir en la semana (21/09/2017-16/10/2017)
 
 1. [X] Elección de proyecto apto para la asignatura.
 2. [X] Describir proyecto y los servicios que ofrece.
@@ -27,4 +27,61 @@
 [Ejercicio 4](https://github.com/ainokila/TrabajosIV/blob/master/hito1/ejercicio04.md)
 [Ejercicio 5](https://github.com/ainokila/TrabajosIV/blob/master/hito1/ejercicio05.md)
 [Ejercicio 6](https://github.com/ainokila/TrabajosIV/blob/master/hito1/ejercicio06.md)
+
+
+## Objetivos a cubrir en la semana (16/10/2017-26/10/2017)
+
+### Objetivos de la semana
+
+1. [X] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de
+una aplicación.
+
+2. [X] Comprender cómo las pruebas de software encajan dentro del concepto
+   de infraestructura virtual.
+
+3. [X] Usar los entornos virtuales de desarrollo en diferentes lenguajes de
+  programación y entender su utilidad.
+
+4. [X] Entender los ficheros de *requisitos* y su utilidad en las
+  infraestructuras virtuales.
+ 
+5. [X] Terminar la configuración de los sistemas de integración continua
+
+6. [X] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
+
+### Otros objetivos
+
+1. [X] Haber entregado el
+  [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
+  al final de la semana.
+
+2. [X] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
+
+3. [X] Entender el formato JSON y su importancia para ficheros de
+  configuración e intercambio genérico de datos. 
+
+4. [X] Comenzar el aprendizaje de un nuevo lenguaje de programación o
+  entender cómo node.js hace las cosas, o simplemente mirar el
+  cinturón de herramientas (*toolbelt*) del lenguaje que se use habitualmente de
+  otra forma.
+
+5. [X] Comprender la utilidad de la virtualización y definición en un  fichero de  herramientas de desarrollo.
+  
+6. [X] Instalar las herramientas necesarias para crear y aplicar tests en  un proyecto.
+
+7. [X] Comprender el papel de las *build tools* o herramientas de automatización. 
+
+8. [X] Entender los errores en la entrega del
+  [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
+  y corregirlos si es pertinente.
+
+9. [X] Configurar los *toolbelt* de diferentes sistemas PaaS tales como BlueMix, Heroku u OpenShift.
+
+10. [X] Comprender los mecanismos de despliegue automático.
+
+11. [X] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
+
+12. [X]  Asistir al seminario sobre [cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30](https://www.meetup.com/es-ES/preview/Granada-Geek/events/243776993).
+
+13. [X] Tratar de combinar proyectos individuales en un proyecto mayor que  se desarrollará usando la metodología SCRUM
 

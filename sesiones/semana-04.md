@@ -1,6 +1,6 @@
-# Cuarta semana, comienza el 5 de octubre
+# Cuarta sesión, comienza el 5 de octubre
 
-**Importante** comienza el hacktoberfest. Buscad *issues* con la
+**Importante** comienza el *hacktoberfest*. Buscad *issues* con la
 etiqueta *hacktoberfest* y referenciarlos al hacer los pull request.
 
 ## Objetivos de la semana
@@ -27,13 +27,12 @@ Terminamos con
 y comenzamos con el
 [uso de plataformas como servicio](http://jj.github.io/IV/documentos/temas/PaaS). 
 
-Continuamos con
-el
+Continuamos con el
 [segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI),
 que se entrega el  **00:00 del 17 de octubre de 2017**. 
 
 ## Siguiente semana
 
-[Quinta semana](5-semana.md).
+[Quinta semana](05-semana.md).
 
 

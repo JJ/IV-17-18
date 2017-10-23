@@ -55,3 +55,17 @@ jueves a partir de las 12:30 está el Hacklab Granada en la sala de reuniones (o
 * [X] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo.
 * [X] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 * [X] Comprender el papel de las build tools o herramientas de automatización.
+
+# Cuarta semana, comienza el 19 de octubre
+
+## Objetivos de la semana
+
+* [X] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+* [X] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+* [X] He asistido a clase
+
+## Otros objetivos
+
+* [X] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
+* [X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+* [X] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.

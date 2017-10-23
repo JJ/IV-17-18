@@ -21,3 +21,18 @@
 9. [x] Usar el sistema de control de fuentes gitpara desarrollo colaborativo y para despliegue de aplicaciones en la nube.
 10. [x] Entender el funcionamiento de gh-pages
 11. [x] Realización de los ejercicios del [Tema 1](https://github.com/Maverick94/EjerciciosIV/tree/master/tema1)
+
+
+  ## Objetivos del Hito 2
+
+
+1. [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+2. [x] Entender el concepto de DevOps.
+3. [x] Usar herramientas para gestión de los ciclos de desarrollo de una aplicación y entender cuales son estos.
+4. [x] Aprender a usar integración continua en cualquier aplicación.
+5. [x] Entender el concepto de DevOps y cómo se traduce al ciclo de vida de una aplicación.
+6. [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+7. [x] Usar los entornos virtuales de desarrollo en diferentes lenguajes de programación y entender su utilidad.
+8. [x] Entender los ficheros de requisitos y su utilidad en las infraestructuras virtuales.
+9. [X] Entender el formato JSON y su importancia para ficheros de configuración e intercambio genérico de datos.
+10. [X] Comprender el papel de las build tools o herramientas de automatización.

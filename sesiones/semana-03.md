@@ -50,4 +50,4 @@ una aplicación.
 
 ## Siguiente semana
 
-[Cuarta semana, a partir del 12 de octubre](semana-04.md)
+[Cuarta semana](semana-04.md)
