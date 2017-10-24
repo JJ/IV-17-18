@@ -6,7 +6,11 @@ Añade debajo enlaces a tu proyecto
 |--------|--------|---------|
 | ALCALA MARTINEZ, ANTONIO |[proyecto](https://github.com/AntonioAlcM/ProyectoIV17-18) |0.2 |
 | ALVAREZ GARROTE, LUIS | | |
+<<<<<<< HEAD
 | ANAYA ORTIZ, JUAN| [RepoNuevo](https://github.com/JaoChaos/AndroidExamplesIV) | 0.2 |
+=======
+| ANAYA ORTIZ, JUAN| [RepoNuevo](https://github.com/JaoChaos/AndroidExamplesIV) | 0.1 |
+>>>>>>> f9eee19a9f271db28c88b549ffdd004c83adac34
 | CARMONA OLIVA, ALVARO|[Repo](https://github.com/alvarocarmona6/ProyectoIV)|0.1 |
 | CASADO VERGARA, MANUEL|[IV-Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.1 |
 | CASO ONZAIN, JAIME| | |
