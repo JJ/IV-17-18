@@ -16,7 +16,7 @@
 4. [X] Licencia del proyecto
 5. [X] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
 6. [X] Comprender las técnicas de cálculo del coste de amortización de un equipo informático y aplicarlo al cálculo del coste de uso de un recurso.
-7. [X] Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. 
+7. [X] Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos.
 8. [X] Comprender los niveles de virtualización y sus denominaciones genéricas.
 9. [X] Comprender el concepto de software as a service y comprender los criterios necesarios para su elección.
 10. [X] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
@@ -44,7 +44,7 @@ una aplicación.
 
 4. [X] Entender los ficheros de *requisitos* y su utilidad en las
   infraestructuras virtuales.
- 
+
 5. [X] Terminar la configuración de los sistemas de integración continua
 
 6. [X] Comprender el nivel *plataforma* de la infraestructura virtual y su uso en prueba y producción.
@@ -58,7 +58,7 @@ una aplicación.
 2. [X] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
 
 3. [X] Entender el formato JSON y su importancia para ficheros de
-  configuración e intercambio genérico de datos. 
+  configuración e intercambio genérico de datos.
 
 4. [X] Comenzar el aprendizaje de un nuevo lenguaje de programación o
   entender cómo node.js hace las cosas, o simplemente mirar el
@@ -66,10 +66,10 @@ una aplicación.
   otra forma.
 
 5. [X] Comprender la utilidad de la virtualización y definición en un  fichero de  herramientas de desarrollo.
-  
+
 6. [X] Instalar las herramientas necesarias para crear y aplicar tests en  un proyecto.
 
-7. [X] Comprender el papel de las *build tools* o herramientas de automatización. 
+7. [X] Comprender el papel de las *build tools* o herramientas de automatización.
 
 8. [X] Entender los errores en la entrega del
   [primer hito del proyecto](http://jj.github.io/IV/documentos/practicas/1.Infraestructura)
@@ -79,9 +79,25 @@ una aplicación.
 
 10. [X] Comprender los mecanismos de despliegue automático.
 
-11. [X] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. 
+11. [X] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
 12. [X]  Asistir al seminario sobre [cómo colaborar con proyectos de software libre, en la -1.2 a las 13:30](https://www.meetup.com/es-ES/preview/Granada-Geek/events/243776993).
 
 13. [X] Tratar de combinar proyectos individuales en un proyecto mayor que  se desarrollará usando la metodología SCRUM
 
+
+## Objetivos a cubrir en la semana a partir del 2 de noviembre
+
+1. [X] Elegir un PaaS para llevar a cabo este hito.
+
+### Otros objetivos
+
+1. [X] Resolver los problemas que se presenten a través de Telegram y entregar el hito el 7 de noviembre a las 00:00
+
+### Material para la clase
+
+Continuamos con el tema dedicado al
+[uso de plataformas como servicio](http://jj.github.io/IV/documentos/temas/PaaS)
+y empezamos con el
+[tercer hito del proyecto](https://jj.github.io/IV/documentos/proyecto/3.PaaS.md). La
+fecha de entrega es el **7 de noviembre** a las 00:00.
