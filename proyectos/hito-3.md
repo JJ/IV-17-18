@@ -6,7 +6,7 @@ Añade debajo enlaces a tu proyecto
 |--------|--------|---------|
 | ALCALA MARTINEZ, ANTONIO | [Proyecto](https://github.com/AntonioAlcM/tfg_ugr) | 0.2 |
 | ALVAREZ GARROTE, LUIS | | |
-| ANAYA ORTIZ, JUAN| [Repo](https://github.com/JaoChaos/AndroidExamplesIV) | 0.1 |
+| ANAYA ORTIZ, JUAN| [Repo](https://github.com/JaoChaos/AndroidExamplesIV) | 0.2 |
 | CARMONA OLIVA, ALVARO| [ProyectoIV](https://github.com/alvarocarmona6/ProyectoIV)| 0.2|
 | CASADO VERGARA, MANUEL|[Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.1 |
 | CASO ONZAIN, JAIME| | |
