@@ -101,3 +101,22 @@ Continuamos con el tema dedicado al
 y empezamos con el
 [tercer hito del proyecto](https://jj.github.io/IV/documentos/proyecto/3.PaaS.md). La
 fecha de entrega es el **7 de noviembre** a las 00:00.
+
+## Objetivos a cubrir en la semana a partir del 10 de noviembre
+
+1. [X] Comprender la importancia de los contenedores en el el desarrollo informático actual.
+2. [X] Entender la base del aislamiento de recursos en el sistema operativo.
+3. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+4. [X] Entender las arquitecturas software basadas en contenedores
+5. [X] Instalar Docker y empezar a trabajar con él.
+6. [X] Usar imágenes de docker publicadas.
+
+7. [X] Entender la base del aislamiento de recursos en el sistema operativo.
+8. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+9. [X] Poner a punto la instalación de Linux si no se ha hecho hasta ahora.
+10. [X] Instalar docker y trabajar con él.
+11. [X] Usar imágenes de docker publicadas.
+12. [X] Si no se ha hecho, alta en Zeit e instalación del cliente.
+13. [X] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube.
+14. [ ] Asistir al seminario de seguridad en APIs REST del próximo lunes.
+
