@@ -10,7 +10,7 @@ Añade debajo enlaces a tu proyecto
 | CARMONA OLIVA, ALVARO|[ProyectoIV](https://github.com/alvarocarmona6/ProyectoIV) |0.7 |
 | CASADO VERGARA, MANUEL| [IV-Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.3 |
 | CASO ONZAIN, JAIME| | |
-| CASTRO MONTES, GERMAN|[sptorrent-api](https://github.com/patamimbre/sptorrent-api) |0.1 |
+| CASTRO MONTES, GERMAN|[sptorrent-api](https://github.com/patamimbre/sptorrent-api) |0.2 |
 | CERVILLA ORTEGA, SERGIO| [TelgramRSS](https://github.com/Cerv1/IV-Project) | 0.2 |
 | DEL RIO AGUILAR, ALBERTO| | |
 | DE LA HOZ GARRIDO, PAULA MARIA| | |
