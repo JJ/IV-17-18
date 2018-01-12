@@ -1,21 +1,24 @@
-#Décimo tercera semana, 22 de diciembre de 2016
+# Décimocuarta y última semana, 21 de diciembre de 2017
 
-Última semana del año. Sustituimos la clase por el seminario sobre
-tecnologías ágiles.
 
 ## Objetivos de la asignatura
 
-Entender cómo la definición de infraestructura virtual encaja en
-metodologías ágiles de desarrollo y la relación de las mismas con el
-concepto de DevOps teams.
+1. Terminar de entender el concepto de "infraestructura como software"
+   y ponerlo en práctica en el hito final del proyecto.
 
 ## Objetivos adicionales
 
-Participar en una experiencia real de desarrollo ágil, con personal
-con experiencia. Inscribirse en
-[Meetup](https://www.meetup.com/es-ES/Granada-Geek/events/235054689/)
-y preparar un equipo para participar en el hackatón de por la tarde.
+1. Resolver las dudas que surjan con el hito final del proyecto. 
 
-## Próxima semana
+## Material para la clase
 
-Nos vemos el año que viene. 
+Terminamos el tema de
+[gestión de configuraciones](http://jj.github.io/IV/documentos/temas/Gestion_de_configuraciones) y
+se debe tener a punto
+el [último hito](http://jj.github.io/IV/documentos/proyecto/5.IaaS),
+que debería de entregarse antes del final del período lectivo. 
+
+
+## Próximo evento
+
+Nos vemos en la presentación del proyecto el 12 de enero (primera convocatoria). 

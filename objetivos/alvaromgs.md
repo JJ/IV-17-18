@@ -153,3 +153,64 @@ una aplicación.
    del cliente.
 * [X] Comprobar los servicios de publicación de contenedores de los
    diferentes sistemas en la nube.
+
+## Décima semana, comienza el 23 de Noviembre
+
+### Objetivos de la semana
+
+* [X] Usar `docker` en una aplicación real.
+* [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+### Otros objetivos
+
+* [X] Publicar imágenes de Docker y entregar la práctica
+* [X] Instalar hipervisores libres y trabajar con ellos.
+* [X] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+
+## Undécima semana, comienza el 30 de noviembre
+
+### Objetivos de la semana
+
+* [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+### Otros objetivos
+* [X] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El
+   seleccionar una imagen para desplegar es esencial para que se
+   trabaje de forma eficiente, y en la asignatura de ISE se
+   proporcionan diferentes herramientas para evaluar las prestaciones
+   de diferentes sistemas operativos.  
+
+## Duodécima semana, comienza el 7 de Diciembre
+
+### Objetivos de la semana
+
+* [X] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+* [X] Entender los conceptos de los servicios en la nube.
+* [X] Entender el concepto de provisionamiento.
+
+### Otros objetivos
+
+* [X] Instalar clientes de servicios en la nube.
+* [X] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+* [X] Hacer pruebas de provisionamiento de servicios en la nube.
+
+## Décimo tercera semana, comienza el 15 de Diciembre
+
+### Objetivos de la asignatura
+
+* [X] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+* [X] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+### Otros objetivos
+
+* [X] Resolver dudas relativas a la entrega del hito final de la asignatura
+
+## Décimocuarta y última semana, 21 de diciembre de 2017
+
+### Objetivos de la asignatura
+
+* [X] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+
+### Objetivos adicionales
+
+* [X] Resolver las dudas que surjan con el hito final del proyecto.

@@ -199,3 +199,65 @@ Importante comienza el hacktoberfest. Buscad issues con la etiqueta hacktoberfes
 - [x] Si no se ha hecho, alta en Zeit e instalación del cliente.
 - [x] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube.
 - [x] Asistir al seminario de seguridad en APIs REST del próximo lunes.
+
+### Décima semana, comienza el 23 de Noviembre
+**Objetivos de la semana**
+
+- [x] Usar docker en una aplicación real.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+**Otros objetivos**
+
+- [x] Publicar imágenes de Docker y entregar la práctica
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+
+### Undécima semana, comienza el 30 de noviembre
+Aunque la entrega está lejos, conviene ir cubriendo los objetivos de la asignatura para que no se acumule al final, este hito es largo y complejo.
+
+**Objetivos de la semana**
+
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+**Otros objetivos**
+
+- [x] Entregar el 4º hito, los que no lo hayan hecho
+- [x] Analizar resultados del hito 3 y comentarlo en clase
+    -Separación de bots y APIs.
+    -Falta de tests.
+    -Pocos servicios adicionales.
+    -Sobre Dockerfiles y errores habituales.
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+- [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
+
+### Duodécima semana, comienza el 7 de Diciembre
+Conviene ir cubriendo los objetivos de la semana, para que la entrega de la práctica no nos pille desprevenidos.
+
+**Objetivos de la semana**
+
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+
+- [x] Entender los conceptos de los servicios en la nube.
+
+- [x] Entender el concepto de provisionamiento.
+
+**Otros objetivos**
+
+- [x] Instalar clientes de servicios en la nube.
+
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+
+### Décimo tercera semana, comienza el 15 de Diciembre
+
+**Objetivos de la semana**
+
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+**Otros objetivos**
+
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura

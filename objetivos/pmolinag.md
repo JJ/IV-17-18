@@ -70,3 +70,20 @@
 5. [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
 6. [x] Crear infraestructuras virtuales completas.
 7. [x] Asistencia a clase de prácticas.
+
+## OBJETIVOS DE LA SEXTA PRACTICA
+1. [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+
+2. [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+3. [x] Documentar y mantener una plataforma virtual.
+4. [x] Realizar tareas de administración de infraestructuras virtuales.
+5. [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+6. [x] Instalar hipervisores libres y trabajar con ellos.
+7. [x] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+8. [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
+9. [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+10. [x] Entender los conceptos de los servicios en la nube.
+11. [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+12. [x] Hacer pruebas de provisionamiento de servicios en la nube.
+13. [x] 
+

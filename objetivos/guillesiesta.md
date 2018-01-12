@@ -72,3 +72,20 @@
 - [X] Instalar LXC y empezar a trabajar con él.
 - [ ] Realizar el ejercicio de crédito adicional.
 
+
+# Sesiones 6 y 7
+
+## Semana a partir del 23 de noviembre de 2017
+
+### Hito 5
+
+- [X] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [X] Instalar hipervisores libres y trabajar con ellos.
+- [X] Realizar los ejercicios de la asignatura correspondientes a la [sesión 6](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/ejercicios/sesion-06.md)
+- [X] Realizar los ejercicios de la asignatura correspondientes a la [sesión 7](https://github.com/guillesiesta/IV-17-18-Ejercicios/blob/master/ejercicios/sesion-07.md)
+- [X] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+- [X] Entender los conceptos de los servicios en la nube.
+- [X] Entender el concepto de provisionamiento.
+- [X] Instalar clientes de servicios en la nube.
+- [X] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [X] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.

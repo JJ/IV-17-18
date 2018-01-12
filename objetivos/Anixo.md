@@ -74,3 +74,24 @@
 18. [X] Optimizar aplicaciones sobre plataformas virtuales.
 19. [X] Conocer diferentes tecnologías relacionadas con la virtualización (Computación Nube, Utility Computing, Software as a Service) e implementaciones tales como Google AppSpot, OpenShift o Heroku.
 20. [X] Realizar tareas de administración en infraestructura virtual.
+
+## Objetivos práctica 5
+
+1. [X] Comprender el concepto de hipervisor y los diferentes tipos que hay. 
+2. [X] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres. 
+3. [X] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+4. [X] Entender los conceptos de los servicios en la nube.
+5. [X] Entender el concepto de provisionamiento.
+6. [X] Instalar clientes de servicios en la nube.
+7. [X] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+8. [X] Hacer pruebas de provisionamiento de servicios en la nube.
+9. [X] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura. 
+10. [X] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+11. [X] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto. 
+12. [X] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+13. [X] Documentar y mantener una plataforma virtual.
+14. [X] Realizar tareas de administración de infraestructuras virtuales.
+15. [X] Aprender lenguajes de configuración usados en infraestructuras virtuales. 
+16. [X] Saber cómo aplicarlos en un caso determinado. 
+17. [X] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
+18. [X] Realizar los [ejercicios de los ultimos temas](https://github.com/Anixo/EjerciciosIV/tree/master/Ejercicios%20Hito%205).

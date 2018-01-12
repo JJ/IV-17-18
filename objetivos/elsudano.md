@@ -118,4 +118,60 @@ Carlos de la Torre
 - [x] Usar imágenes de docker publicadas.
 - [x] Si no se ha hecho, alta en [Zeit](https://zeit.co) e instalación del cliente.
 - [ ] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube.
-- [ ] Asistir al [seminario de seguridad en APIs REST](https://www.meetup.com/es-ES/Granada-Geek/events/244961544) del próximo lunes. 
+- [ ] Asistir al [seminario de seguridad en APIs REST](https://www.meetup.com/es-ES/Granada-Geek/events/244961544) del próximo lunes.
+
+## Objetivos semana del 23 de noviembre al 30 de noviembre de 2017
+
+- [x] Usar `docker` en una aplicación real.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+## Otros objetivos
+
+- [x] Publicar imágenes de Docker y entregar la práctica
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+
+## Objetivos semana del 30 de noviembre al 7 de diciembre de 2017
+
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+## Otros objetivos
+
+- [ ] Entregar el 4º hito, los que no lo hayan hecho
+- [x] Analizar resultados del hito 3 y comentarlo en clase
+   1. Separación de bots y APIs.
+   2. Falta de tests.
+   3. Pocos servicios adicionales.
+   4. Sobre Dockerfiles y errores habituales.
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+- [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
+
+## Objetivos semana del 7 de diciembre al 14 de diciembre de 2017
+
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+
+## Otros objetivos
+
+- [x] Instalar clientes de servicios en la nube.
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+
+## Objetivos semana del 14 de diciembre al 21 de diciembre de 2017
+
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+## Otros objetivos
+
+- [x] Resolver dudas relativas a la entrega del hito final de la asignatura
+
+## Objetivos finales del 21 de diciembre de 2017 al 12 de enero de 2018
+
+- [x] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+
+## Objetivos adicionales
+
+- [x] Resolver las dudas que surjan con el hito final del proyecto.

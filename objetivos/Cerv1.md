@@ -36,3 +36,13 @@
 - [x] Comprender el temario de teoría de esta sesión.
 - [x] Ayudar a un @adrianmorente con un **pull request**.
 - [x] Entregar el hito de esta semana.
+
+## Sesión 5 (Semanas del 24 de Nobiembre al 21 de Diciembre de 2017)
+
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [ ] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración de infraestructuras virtuales.
+- [x] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [x] Saber cómo aplicarlos en un caso determinado.
+- [x] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.

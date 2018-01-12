@@ -118,7 +118,18 @@
 7. [X] Conocer diferentes tecnologías relacionadas con la virtualización (Computación Nube, Utility Computing, Software as a Service) e implementaciones tales como Google AppSpot, OpenShift o Heroku.
 8. [X] Realizar tareas de administración en infraestructura virtual.
 
+[Ejercicios Tema 5 ](https://github.com/alvarocarmona6/Ejercicios-IV/blob/master/EjercicioTema5.md)
 
+1. [X] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+2. [X] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+3. [X] Documentar y mantener una plataforma virtual.
+4. [X] Realizar tareas de administración de infraestructuras virtuales.
+
+[Ejercicios Tema 6 ](https://github.com/alvarocarmona6/Ejercicios-IV/blob/master/EjercicioTema6.md)
+
+1. [X] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+2. [X] Saber cómo aplicarlos en un caso determinado.
+3. [X] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
 
 ## Sesión 5 Quinta semana, comienza el 19 de octubre
 ### Objetivos de la semana
@@ -214,12 +225,36 @@
 
 1. [X] Publicar imágenes de Docker y entregar la práctica
 2. [X] Instalar hipervisores libres y trabajar con ellos.
-3. [] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+3. [X] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
 
 
+## Undécima semana, comienza el 30 de noviembre
+### Objetivos de la semana
+
+1. [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
 
+### Otros objetivos
+
+1. [X] Entregar el 4º hito, los que no lo hayan hecho
+2. [X] Instalar hipervisores libres y trabajar con ellos.
+3. [X] Instalar hipervisores libres y trabajar con ellos.
+4. [X] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+5. [X] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
 
 
+## Duodécima semana, comienza el 7 de Diciembre
+### Objetivos de la semana
+
+1. [X] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+2. [X] Entender los conceptos de los servicios en la nube.
+3. [X] Entender el concepto de provisionamiento.
+
+
+### Otros objetivos
+
+1. [X] Instalar clientes de servicios en la nube.
+2. [X] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+3. [X] Hacer pruebas de provisionamiento de servicios en la nube.
 
 

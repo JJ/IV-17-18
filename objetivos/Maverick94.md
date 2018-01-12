@@ -40,8 +40,53 @@
 
   ## Objetivos del Hito 3
 
-1. [] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
-2. [] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
-3. [] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
-4. [] Aplicar el concepto de DevOps a este tipo específico de plataforma.
-5. [] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+1. [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+2. [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+3. [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
+4. [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+5. [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+
+
+  ## Objetivos del Hito 4
+
+
+1. [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+2. [x] Instalar, configurar, evaluar y optimizar las prestaciones de un servidor virtual.
+3. [X] Comprender la importancia de los contenedores en el el desarrollo informático actual
+4. [X] Entender la base del aislamiento de recursos en el sistema operativo.
+5. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+6. [X] Entender las arquitecturas software basadas en contenedores
+7. [X] Instalar Docker y empezar a trabajar con él.
+8. [X] Poner a punto la instalación de Linux si no se ha hecho hasta ahora, aunque Docker funciona también en Windows desde hace nada.
+9. [X] Usar imágenes de docker publicadas.
+10. [X] Entender la base del aislamiento de recursos en el sistema operativo.
+11. [X] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+12. [X] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube.
+13. [X] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+15. [X] Configurar los diferentes dispositivos físicos para acceso a los servidores virtuales: acceso de usuarios, redes de comunicaciones o entrada/salida.
+16. [X] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+17. [X] Documentar y mantener una plataforma virtual.
+18. [X] Optimizar aplicaciones sobre plataformas virtuales.
+19. [X] Conocer diferentes tecnologías relacionadas con la virtualización (Computación Nube, Utility Computing, Software as a Service) e implementaciones tales como Google AppSpot, OpenShift o Heroku.
+20. [X] Realizar tareas de administración en infraestructura virtual.
+
+
+  ## Objetivos del Hito 5
+
+
+2. [X] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+3. [X] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+4. [X] Entender los conceptos de los servicios en la nube.
+5. [X] Entender el concepto de provisionamiento.
+6. [X] Instalar clientes de servicios en la nube.
+7. [X] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+8. [X] Hacer pruebas de provisionamiento de servicios en la nube.
+9. [X] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+10. [X] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+11. [X] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+12. [X] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+13. [X] Documentar y mantener una plataforma virtual.
+14. [X] Realizar tareas de administración de infraestructuras virtuales.
+15. [X] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+16. [X] Saber cómo aplicarlos en un caso determinado.
+17. [X] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.

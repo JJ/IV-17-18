@@ -107,3 +107,46 @@
 6. [X] Si no se ha hecho, alta en Zeit e instalación del cliente.
 7. [X] Comprobar los servicios de publicación de contenedores de los diferentes sistemas en la nube.
 8. [ ] Asistir al seminario de seguridad en APIs REST del próximo lunes.
+
+## Objetivos semana 10
+
+1. [X] Usar docker en una aplicación real.
+2. [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+3. [X] Publicar imágenes de Docker y entregar la práctica
+4. [X] Instalar hipervisores libres y trabajar con ellos.
+5. [X] Probar diferentes tipos de máquinas virtuales con sistemas operativos libres.
+
+## Objetivos semana 11
+
+1. [X] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+2. [X] Entregar el 4º hito, los que no lo hayan hecho
+3. [X] Analizar resultados del hito 3 y comentarlo en clase
+4. [ ] Separación de bots y APIs.
+5. [X] Falta de tests.
+6. [X] Pocos servicios adicionales.
+7. [X] Sobre Dockerfiles y errores habituales.
+8. [X] Instalar hipervisores libres y trabajar con ellos.
+9. [X] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+10. [X] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
+
+## Objetivos semana 12
+
+1. [X] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+2. [X] Entender los conceptos de los servicios en la nube.
+3. [X] Entender el concepto de provisionamiento.
+4. [X] Instalar clientes de servicios en la nube.
+5. [X] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+6. [X] Hacer pruebas de provisionamiento de servicios en la nube.
+
+## Objetivos semana 13
+
+1. [X] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+2. [X] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+3. [X] Resolver dudas relativas a la entrega del hito final de la asignatura
+
+## Objetivos semana 14
+
+1. [X] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+2. [X] Resolver las dudas que surjan con el hito final del proyecto.
+
+

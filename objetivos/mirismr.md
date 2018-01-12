@@ -101,3 +101,24 @@ Míriam Mengíbar Rodríguez
 - [x] Instalar Docker y empezar a trabajar con él.
 - [x] Actualizar documentación.
 - [x] Realizar [ejercicios tema 4](https://github.com/mirismr/ejerciciosIV/blob/master/ejerciciosTema4.md)
+
+
+# Hito 5
+
+## Objetivos 23 de Noviembre al 21 Diciembre
+- [x] Instalar hipervisores libres y trabajar con ellos.
+- [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres.
+- [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+- [X] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+
+## Otros objetivos
+- [x] Instalar clientes de servicios en la nube.
+- [x] Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] Hacer pruebas de provisionamiento de servicios en la nube.
+- [x] Actualizar documentación.
+- [x] Realizar [ejercicios tema 5](https://github.com/mirismr/ejerciciosIV/blob/master/ejerciciosTema5.md)

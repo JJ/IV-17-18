@@ -66,3 +66,10 @@ vComenzar el aprendizaje de un nuevo lenguaje de programación o entender cómo 
 * [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
 * [x] Crear infraestructuras virtuales completas.
 * [x] Comprender los pasos necesarios para la configuración automática de las mismas.
+
+## Hito 5
+
+* [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+* [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+* [x] Documentar y mantener una plataforma virtual.
+* [x] Realizar tareas de administración de infraestructuras virtuales.

@@ -5,6 +5,6 @@ language: perl
 perl:
   - "5.16"
 before_install:
-install: cpanm Test::More Test::Harness Git File::Slurper JSON
+install: cpanm Test::More Test::Harness Git File::Slurper JSON Net::Ping TAP::Formatter::Color Term::ANSIColor
 script: prove -c
 
