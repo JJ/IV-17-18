@@ -70,3 +70,24 @@
 14. [x] Crear el archivo _confgunicorn.py_ encargado de la configuración del puerto para gunicorn
 15. [x] Crear el archivo _scriptDespliegue.sh_ para lanzar el despliegue
 16. [x] Aparte del despliegue que se pide en este hito, realizar también pruebas en local con contenedores docker
+17. [x] Actualizar el archivo _app.py_ para añadir la ruta /status
+
+## Objetivos Hito5
+
+1. [x] Leer y comprender el Tema 5 de la asignatura
+2. [x] Leer y comprender el Tema 6 de la asignatura
+3. [x] Instalar las herramientas necesarias para las pruebas y la realización de los ejercicios
+4. [x] Realizar los [ejercicios del Tema 5](https://github.com/manuellopez92/EjerciciosIV/blob/master/Ejercicios%20Tema%205.md) 
+5. [x] Realizar los [ejercicios del Tema 6](https://github.com/manuellopez92/EjerciciosIV/blob/master/Ejercicios%20Tema%206.md)
+6. [x] Añadir información y guía de configuración del despliegue de este hito al archivo _README.md_
+7. [x] Añadir en el _README.md_ el IP de mi despliegue final
+8. [x] Crear el archivo _script.sh_ para automatizar toda la instalación y despliegue
+9. [x] Crear el archivo _fabfile.py_ para el despliegue automático
+10. [x] Crear el archivo _Vagrantfile_ para la configuración de Vagrant
+11. [x] Crear el archivo _ansible.cfg_ para la configuración básica de Ansible
+12. [x] Crear el archivo _playbook.yml_ para el aprovisionamiento en Ansible
+13. [x] Crear el archivo _var.yml_ para la declaración de las variables y las dependencias del sistema usadas por Ansible
+14. [x] Configurar todo lo correspondiente en nuestro portal de Azure para crear la máquina
+15. [x] Instalar el cliente de Azure
+16. [x] Instalar Vagrant
+17. [x] Instalar el plugin de Azure para Vagrant
