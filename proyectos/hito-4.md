@@ -22,7 +22,7 @@ Añade debajo enlaces a tu proyecto
 | GOMEZ BAENA, JOSE| [Repo](https://github.com/josegob/IV-Proyecto) | 1.4 |
 | HERNANDEZ CAÑAVERAS, JUAN|[Repositorio](https://github.com/MagicJHC10/Proyecto-IV) |0.2|
 | LIÑAN VILLAFRANCA, LUIS|[bot-calendario-telegram](https://github.com/lulivi/bot-calendario-telegram)|0.1|
-| LOPEZ ACEITUNO, MANUEL| | |
+| LOPEZ ACEITUNO, MANUEL| [Repositorio](https://github.com/manuellopez92/ProyectoIV) | 0.3 |
 | MARTIN QUIROS, JUAN ANTONIO|[ProyectoIV](https://github.com/marquirj/ProyectoSkull)|0.6|
 | MEDINA FACAL, RAFAEL| [Proyecto IV](https://github.com/Medfac9/Proyecto_IV) | 0.1 |
 | MENGIBAR RODRIGUEZ, MIRIAM|[Repo](https://github.com/mirismr/proyectoIV17-18) | 0.2 |

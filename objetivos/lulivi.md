@@ -81,8 +81,11 @@
 
 ## Semana del 30 al 7 de Diciembre de 2017
 
-- [ ] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
-- [ ] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
-- [ ] Documentar y mantener una plataforma virtual.
-- [ ] Realizar tareas de administración de infraestructuras virtuales.
-- [ ] Realizar algunos de los ejercicios de [autoevaluación del tema 5](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_5.md)
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración de infraestructuras virtuales.
+- [x] Realizar algunos de los ejercicios de [autoevaluación del tema 5](https://github.com/lulivi/autoevaluacion-IV/blob/master/ejercicios_tema_5.md)
+- [x] Completar el hito 5
+
+- [x] Dejar todo para el último momento
