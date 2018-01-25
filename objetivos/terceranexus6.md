@@ -38,8 +38,8 @@
 
 ## Objetivos a cubrir en la sesión (04/01/2018)
 
-1. [ ] Provisionamiento con azure cli y brew
+1. [X] Provisionamiento con azure cli y brew
 2. [X] Corregir el README
-3. [ ] Actualizar gh-pages
+3. [X] Provisionamiento con fabric
 4. [ ] Cubrir issues
 5. [ ] Pasar tests

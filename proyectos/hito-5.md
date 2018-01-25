@@ -13,7 +13,7 @@ Añade debajo enlaces a tu proyecto
 | CASTRO MONTES, GERMAN|[sptorrent-api](https://github.com/patamimbre/sptorrent-api) |0.6 |
 | CERVILLA ORTEGA, SERGIO| [TelgramRSS](https://github.com/Cerv1/IV-Project) | 0.2 |
 | DEL RIO AGUILAR, ALBERTO| | |
-| DE LA HOZ GARRIDO, PAULA MARIA| | |
+| DE LA HOZ GARRIDO, PAULA MARIA| [proyecto](https://terceranexus6/copylazyjacker)|0.2 |
 | DE LA TORRE FANIN, CARLOS| [MiddleWare NextCloud](https://github.com/elsudano/MiddleWare_NextCloud) | 1.5 |
 | DONOSO SANCHEZ, JUAN PABLO| | |
 | FERNANDEZ GOMEZ, MARIO| | |
