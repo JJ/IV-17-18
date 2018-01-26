@@ -35,3 +35,11 @@
 3. [ ] Actualizar gh-pages
 4. [X] Cubrir issues
 5. [X] Pasar tests
+
+## Objetivos a cubrir en la sesión (04/01/2018)
+
+1. [X] Provisionamiento con azure cli y brew
+2. [X] Corregir el README
+3. [X] Provisionamiento con fabric
+4. [ ] Cubrir issues
+5. [ ] Pasar tests
