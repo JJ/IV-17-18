@@ -90,3 +90,13 @@ MARIO FERNÁNDEZ GÓMEZ
 18. [X] Optimizar aplicaciones sobre plataformas virtuales.
 19. [X] Conocer diferentes tecnologías relacionadas con la virtualización (Computación Nube, Utility Computing, Software as a Service) e implementaciones tales como Google AppSpot, OpenShift o Heroku.
 20. [X] Realizar tareas de administración en infraestructura virtual.
+
+#Hito 5
+
+1. [X] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+2. [X] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+3. [X] Documentar y mantener una plataforma virtual.
+4. [X] Realizar tareas de administración de infraestructuras virtuales.
+6. [X] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+7. [X] Saber cómo aplicarlos en un caso determinado.
+8. [X] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
