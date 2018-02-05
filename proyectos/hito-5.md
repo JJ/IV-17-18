@@ -6,7 +6,7 @@ Añade debajo enlaces a tu proyecto
 |--------|--------|---------|
 | ALCALA MARTINEZ, ANTONIO |[HitoV](https://github.com/AntonioAlcM/tfg_ugr/) | 0.5 |
 | ALVAREZ GARROTE, LUIS | | |
-| ANAYA ORTIZ, JUAN|[Proyecto](https://github.com/JaoChaos/Bot_Telegram) |1.3|
+| ANAYA ORTIZ, JUAN|[Proyecto](https://github.com/JaoChaos/Bot_Telegram) |1.4|
 | CARMONA OLIVA, ALVARO|[ProyectoIV](https://github.com/alvarocarmona6/ProyectoIV) |0.8 |
 | CASADO VERGARA, MANUEL| [IV-Proyecto](https://github.com/cvlolo/IV-Proyecto) | 0.5 |
 | CASO ONZAIN, JAIME| | |
